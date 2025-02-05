@@ -13,9 +13,9 @@ redirect_from:
 
 ## 🎓 Education
 
-- **Bachelor of Engineering in Computer Engineering**
-  **King Mongkut’s University of Technology Thonburi (KMUTT)**  
-  **GPAX 3.59**
+- **Bachelor of Engineering in Computer Engineering** <br />
+  **King Mongkut’s University of Technology Thonburi (KMUTT)** <br />
+  **GPAX 3.59** <br />
   _2021 - Expected 2025_
 
 ## 🛠 Skills
