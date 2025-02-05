@@ -22,7 +22,7 @@ repository               : "ChanonTee/ChanonTee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture-chanon.png"
+  avatar           : "picture-chanon.jpg"
   name             : "Tee"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering student at King Mongkut's University of Technology Thonburi (KMUTT)"
