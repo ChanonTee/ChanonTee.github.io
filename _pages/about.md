@@ -42,4 +42,4 @@ redirect_from:
 - **Business Intelligence:** PowerBI for Data Analysis
 
 ### 🎮 **Thailand Esports Athlete** (June 2019 - December 2019)
-- **Gold Medalist** - Arena of Valor (RoV) | 30th SEA Games
+- **Gold Medalist** - Arena of Valor (RoV) 30th SEA Games
