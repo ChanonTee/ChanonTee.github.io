@@ -7,17 +7,51 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to My Portfolio 🚀  
+About Me
 
-👋 Hi, I'm **Chanon Ketkarn**, a passionate software engineer and cryptocurrency trader.  
+👋 Hi, I'm Chanon Ketkarn, a passionate learner in Software Engineering, Artificial Intelligence (AI), and Quantitative Trading. I enjoy exploring new technologies, developing trading strategies, and improving my skills through hands-on projects.
 
-## 🔹 About Me  
-- 🎓 4th-year Computer Engineering student at KMUTT  
-- 📊 Cryptocurrency Trader (Spot, Futures, Options, Arbitrage)  
-- 💻 Software Engineer (NetSuite ERP, SuiteScript, Python, JavaScript)  
-- 🏆 Gold Medalist in Arena of Valor (SEA Games 2019)  
+🎓 Education
 
-## 📂 Portfolio & Resume  
-- 📜 [Resume (PDF)](files/resume_chanon.pdf)  
-- 🏆 [My Projects](projects.md)  
-- 📚 [Blog & Articles](blog.md)  
+📍  King Mongkut’s University of Technology Thonburi (KMUTT) | 2021 - Expected 2025
+
+🎓 Bachelor of Engineering in Computer Engineering
+
+🛠 Skills
+
+🖥️ Programming: Python, C, JAVA, SQL, HTML, CSS, JavaScript
+🗄  Databases: SQL, MySQL
+📊 Data Science Tools: NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-learn, Keras, Pytorch
+
+💼 Experience
+
+📈 TFEX NEXT GEN Workshop | November 2024
+
+📊 Pair Trading Strategies: Intra-market, Inter-product, Inter-market
+
+🧮 Equity Indices Valuation: Fundamental & Quantitative Methods
+
+🏛️ SET50 Index Futures: Trading Calendar Spreads
+
+🌍 Quanto Spread Trading: COMEX Gold vs TFEX Gold Contracts
+
+💻 Software Engineer | Teibto | July 2024 - September 2024
+
+🏗️ ERP Expertise: Oracle NetSuite Architecture & Functionalities
+
+📜 SuiteScript Development: Custom Printing for Receipts, Invoices, Inventory
+
+🎓 Workshop Instructor | Bangpakok Witthayakom School | July 2023 - August 2023
+
+🖥️ Python Fundamentals: Programming Basics
+
+📊 Data Science Tools: NumPy, Pandas, Seaborn, Scikit-learn
+
+🤖 Machine Learning Models: Decision Tree, Linear Regression
+
+📈 Business Intelligence: PowerBI for Data Analysis
+
+🎮 Thailand Esports Athlete | June 2019 - Dec 2019
+
+🏆 Gold Medalist - Arena of Valor (RoV) | 30th SEA Games
+
