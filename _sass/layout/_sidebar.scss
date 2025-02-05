@@ -90,10 +90,8 @@
   }
 
   img {
-   width: 150px; /* Set the width of the avatar */
-   height: 150px; /* Set the height of the avatar (same as width for a square) */
-   border-radius: 50%; /* This makes the image circular */
-   object-fit: cover; /* This ensures the image covers the square area without distortion */
+   width: 150px; 
+   border-radius: 50%; 
 
     @include breakpoint($large) {
       padding: 5px;
