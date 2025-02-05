@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Welcome to My Portfolio 🚀  
 
 👋 Hi, I'm **Chanon Ketkarn**, a passionate software engineer and cryptocurrency trader.  
